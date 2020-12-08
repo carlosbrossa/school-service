@@ -10,6 +10,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -23,7 +31,101 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="school" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="school" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in school-service">
+    <configuration name="All in school-service" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="school-service" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CpfTest.createOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="school-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.carlito.school.domain.student.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="school" />
+      <option name="MAIN_CLASS_NAME" value="school.CpfTest" />
+      <option name="METHOD_NAME" value="createOk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CpfTest.notCreateInvalidCpf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="school-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.carlito.school.domain.student.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="school" />
+      <option name="MAIN_CLASS_NAME" value="school.CpfTest" />
+      <option name="METHOD_NAME" value="notCreateInvalidCpf" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="school-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.carlito.school.domain.student.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="school" />
+      <option name="MAIN_CLASS_NAME" value="school.EmailTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="school-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.carlito.school.domain.student.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="school" />
+      <option name="MAIN_CLASS_NAME" value="school.PhoneTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in school-service" />
+        <item itemvalue="JUnit.EmailTest" />
+        <item itemvalue="JUnit.PhoneTest" />
+        <item itemvalue="JUnit.CpfTest.createOk" />
+        <item itemvalue="JUnit.CpfTest.notCreateInvalidCpf" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -39,6 +141,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="533" y="161" key="#com.intellij.ide.util.MemberChooser" timestamp="1607389071326">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="533" y="161" key="#com.intellij.ide.util.MemberChooser/0.23.1440.830@0.23.1440.830" timestamp="1607389071326" />
+    <state x="264" y="370" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1607388843335">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="264" y="370" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.830@0.23.1440.830" timestamp="1607388843335" />
+    <state x="463" y="304" width="517" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1607389158145">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="463" y="304" width="517" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.830@0.23.1440.830" timestamp="1607389158145" />
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom" timestamp="1607387790235">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1607387790235" />
+    <state width="1398" height="215" key="GridCell.Tab.0.center" timestamp="1607387790234">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1607387790234" />
+    <state width="1398" height="215" key="GridCell.Tab.0.left" timestamp="1607387790234">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1607387790234" />
+    <state width="1398" height="215" key="GridCell.Tab.0.right" timestamp="1607387790235">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1607387790235" />
     <state x="221" y="77" key="SettingsEditor" timestamp="1607382615741">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
@@ -47,5 +177,13 @@
       <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state x="397" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.830@0.23.1440.830" timestamp="1607382593546" />
+    <state x="499" y="187" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1607385184468">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="499" y="187" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.830@0.23.1440.830" timestamp="1607385184468" />
+    <state x="385" y="177" width="670" height="676" key="search.everywhere.popup" timestamp="1607385200535">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="385" y="177" width="670" height="676" key="search.everywhere.popup/0.23.1440.830@0.23.1440.830" timestamp="1607385200535" />
   </component>
 </project>
