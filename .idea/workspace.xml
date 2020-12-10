@@ -23,7 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lLh5N3HaS0vTUZKo32P7P63npr" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -147,10 +149,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="161" key="#com.intellij.ide.util.MemberChooser" timestamp="1607561899854">
+    <state x="533" y="161" key="#com.intellij.ide.util.MemberChooser" timestamp="1607563830248">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state x="533" y="161" key="#com.intellij.ide.util.MemberChooser/0.23.1440.830@0.23.1440.830" timestamp="1607561899854" />
+    <state x="533" y="161" key="#com.intellij.ide.util.MemberChooser/0.23.1440.830@0.23.1440.830" timestamp="1607563830247" />
     <state x="264" y="370" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1607388843335">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
@@ -187,9 +189,9 @@
       <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state x="499" y="187" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.830@0.23.1440.830" timestamp="1607385184468" />
-    <state x="385" y="177" width="670" height="676" key="search.everywhere.popup" timestamp="1607385200535">
+    <state x="385" y="177" width="670" height="676" key="search.everywhere.popup" timestamp="1607563112833">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state x="385" y="177" width="670" height="676" key="search.everywhere.popup/0.23.1440.830@0.23.1440.830" timestamp="1607385200535" />
+    <state x="385" y="177" width="670" height="676" key="search.everywhere.popup/0.23.1440.830@0.23.1440.830" timestamp="1607563112833" />
   </component>
 </project>

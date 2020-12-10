@@ -8,6 +8,7 @@ public class Student {
     private Cpf cpf;
     private String name;
     private Email email;
+    private String pass;
 
     public Student(Cpf cpf, String name, Email email) {
         this.cpf = cpf;
