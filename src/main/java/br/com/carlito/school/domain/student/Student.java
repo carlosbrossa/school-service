@@ -17,6 +17,22 @@ public class Student {
 
     private List<Phone> phones = new ArrayList<>();
 
+    public String getCpf() {
+        return cpf.getNumber();
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getEmail() {
+        return email.getAddress();
+    }
+
+    public List<Phone> getPhones() {
+        return phones;
+    }
+
     public void addPhone(String ddd, String number){
         this.phones.add(new Phone(ddd, number));
     }

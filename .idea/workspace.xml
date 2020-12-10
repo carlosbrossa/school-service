@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="645ee674-85c0-42b2-a0fa-8ca23a2cee87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/carlito/school/domain/student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/carlito/school/domain/student/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -39,10 +40,15 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="school" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.com.carlito.school.domain.student" />
+      <recent name="br.com.carlito.school.domain" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.carlito.school.domain" />
       <recent name="school" />
     </key>
   </component>
@@ -59,7 +65,7 @@
       <module name="school-service" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.carlito.school.domain.student.*" />
+          <option name="PATTERN" value="br.com.carlito.school.infra.student.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,7 +81,7 @@
       <module name="school-service" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.carlito.school.domain.student.*" />
+          <option name="PATTERN" value="br.com.carlito.school.infra.student.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,7 +97,7 @@
       <module name="school-service" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.carlito.school.domain.student.*" />
+          <option name="PATTERN" value="br.com.carlito.school.infra.student.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,7 +112,7 @@
       <module name="school-service" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.carlito.school.domain.student.*" />
+          <option name="PATTERN" value="br.com.carlito.school.infra.student.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,34 +147,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="161" key="#com.intellij.ide.util.MemberChooser" timestamp="1607389071326">
+    <state x="533" y="161" key="#com.intellij.ide.util.MemberChooser" timestamp="1607561899854">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state x="533" y="161" key="#com.intellij.ide.util.MemberChooser/0.23.1440.830@0.23.1440.830" timestamp="1607389071326" />
+    <state x="533" y="161" key="#com.intellij.ide.util.MemberChooser/0.23.1440.830@0.23.1440.830" timestamp="1607561899854" />
     <state x="264" y="370" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1607388843335">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state x="264" y="370" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.830@0.23.1440.830" timestamp="1607388843335" />
-    <state x="463" y="304" width="517" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1607389158145">
+    <state x="463" y="304" width="517" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1607562411464">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state x="463" y="304" width="517" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.830@0.23.1440.830" timestamp="1607389158145" />
-    <state width="1398" height="215" key="GridCell.Tab.0.bottom" timestamp="1607387790235">
+    <state x="463" y="304" width="517" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.830@0.23.1440.830" timestamp="1607562411464" />
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom" timestamp="1607430466682">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1607387790235" />
-    <state width="1398" height="215" key="GridCell.Tab.0.center" timestamp="1607387790234">
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1607430466682" />
+    <state width="1398" height="215" key="GridCell.Tab.0.center" timestamp="1607430466681">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1607387790234" />
-    <state width="1398" height="215" key="GridCell.Tab.0.left" timestamp="1607387790234">
+    <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1607430466681" />
+    <state width="1398" height="215" key="GridCell.Tab.0.left" timestamp="1607430466681">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1607387790234" />
-    <state width="1398" height="215" key="GridCell.Tab.0.right" timestamp="1607387790235">
+    <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1607430466681" />
+    <state width="1398" height="215" key="GridCell.Tab.0.right" timestamp="1607430466682">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1607387790235" />
+    <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1607430466682" />
     <state x="221" y="77" key="SettingsEditor" timestamp="1607382615741">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
